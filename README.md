@@ -1,11 +1,22 @@
-# Library-Management-sql
-This project monitors student entry and exit in a library using SQL. It stores student details, entry time, exit time, and generates reports using SQL queries.
+# Library Management System (SQL Project)
 
-Student Management System using MySQL
+This project is a Library Management System implemented using MySQL.
 
-Features:
-- Student details
-- SQL joins and constraints
+## Features
+- Store book details
+- Manage publishers and members
+- Record book issue and return
+- Generate reports using SQL queries
 
-Technologies:
+## Technologies Used
 - MySQL
+- SQL Joins
+- Constraints (Primary key, Foreign key)
+
+## Tables
+- Books
+- Publisher
+- Member
+- Borrow
+
+This project demonstrates database design using ER diagram and SQL queries.
