@@ -5,7 +5,6 @@ Student Management System using MySQL
 
 Features:
 - Student details
-- Marks calculation
 - SQL joins and constraints
 
 Technologies:
